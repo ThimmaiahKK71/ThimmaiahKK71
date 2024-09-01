@@ -24,7 +24,7 @@ My journey in the world of code is driven by curiosity 🧐 and a love for creat
 
 I'm currently focused on expanding my expertise in Python 🐍, AI 🤖, Full Stack Development 🌐🔍. My goal is to contribute to exciting projects💼 that make a difference🌍.
 
-Let's Connect! Feel free to reach out if you'd like to collaborate 🤝, chat 💬 about coding 💻, books 📚, or food 🍲! I'm always open to new ideas 💡 and connections 🌟.
+Let's Connect! Feel free to reach out, I you'd like to collaborate 🤝, chat 💬 about coding 💻, books 📚, or food 🍲! I'm always open to new ideas 💡 and connections 🌟.
 
 #Lets learn together 😁.
 
